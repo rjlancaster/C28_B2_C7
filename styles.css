@@ -1,0 +1,15 @@
+.pageHeader {
+  text-align: center;
+}
+
+.list {
+  display: flex;
+  flex-flow: wrap;
+  justify-content: space-around;
+}
+
+section {
+  border: 1px dotted black;
+  flex-basis: 30%;
+  padding: 2px 10px 2px 2px;
+}
