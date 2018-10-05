@@ -3,8 +3,8 @@
 }
 
 .list {
-  display: flex;
-  flex-flow: wrap;
+  display: inline-flex;
+  flex-wrap: wrap;
   justify-content: space-around;
 }
 
